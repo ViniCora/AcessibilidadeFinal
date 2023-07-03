@@ -36,3 +36,7 @@ p {
 .smallPicture {
     width: 25%;
 }
+
+.smallFont{
+    font-size: x-small;
+}
