@@ -1,0 +1,38 @@
+header {
+    background: #f1edeb;
+    text-align: center;
+}
+body {
+    background: #f1edeb;
+    font-family: Arial, Calibri, Verdana, serif;
+}
+
+dt {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.shortCutsMenu {
+    margin: 5px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.bigPicture {
+    width: 70%;
+}
+
+.mediumPicture{
+    width: 40%;
+}
+
+.smallPicture {
+    width: 25%;
+}
