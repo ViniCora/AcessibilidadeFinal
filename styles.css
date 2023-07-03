@@ -39,4 +39,13 @@ p {
 
 .smallFont{
     font-size: x-small;
+    white-space: nowrap;
+    color: transparent;   
+    padding: 0px; 
+    margin: 0px;
+}
+
+.smallFont li{
+    padding: 0px; 
+    margin: 0px;
 }
